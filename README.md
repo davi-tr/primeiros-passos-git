@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width = 50/> 
+<img src="https://raw.githubusercontent.com/davi-tr/primeiros-passos-git/main/Como%20fazer%20um%20commit%2095f11de9ef7c440fb795295ee9908a26/GitHub-Mark-Light-120px-plus.png" width = 50/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = 50/> 
 </div>
 
